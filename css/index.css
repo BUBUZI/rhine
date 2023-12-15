@@ -1,1 +1,10 @@
-/*# sourceMappingURL=index.css.map */
+@media (min-width: 768px) {
+  .news-input {
+    width: 50%;
+  }
+}
+body::before {
+  content: "";
+  display: block;
+  height: 56px;
+}/*# sourceMappingURL=index.css.map */
